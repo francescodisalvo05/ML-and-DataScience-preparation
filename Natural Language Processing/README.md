@@ -50,6 +50,7 @@ This section presents a list of `resources` aimed at those who want to start or 
 ### Word Embeddings
 * [Word Embeddings](https://machinelearningmastery.com/what-are-word-embeddings/)
 * [Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+* [Word2Vec optimizations](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 * [FastText](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
 
