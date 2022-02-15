@@ -10,6 +10,7 @@ This section presents a list of `resources` aimed at those who want to start or 
 * [Books](#books)
 * [Topic Modeling](#topic_modeling)
 * [Word Embeddings](#word_embeddings)
+* [Sentence Embeddings](#sentence_embeddings)
 * [Contextualized Embeddings](#contextualized_embeddings)
 * [Blogs](#blogs)
 
@@ -53,6 +54,12 @@ This section presents a list of `resources` aimed at those who want to start or 
 * [Word2Vec optimizations](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 * [FastText](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
+
+<a name="sentence_embeddings" />
+
+### Sentence Embeddings
+* [Doc2Vec](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
+* [Sent2Vec](https://sunjackson.github.io/2018/06/19/a3f95a167b4a350a82cb523478e89b16/)
 
 <a name="contextualized_embeddings" />
 
